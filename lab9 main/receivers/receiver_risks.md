@@ -1,0 +1,2 @@
+- Aucun broadcast receiver exporté
+- Aucun risque identifié

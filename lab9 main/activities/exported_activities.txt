@@ -1,0 +1,8 @@
+MainActivity
+APICredsActivity
+APICreds2Activity
+LogActivity
+HardcodeActivity
+SQLInjectionActivity
+AccessControl1Activity
+AccessControl2Activity

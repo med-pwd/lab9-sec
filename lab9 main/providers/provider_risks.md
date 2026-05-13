@@ -1,0 +1,4 @@
+- Content Provider exporté sans permission
+- Accès direct aux données possible
+- Risque de lecture et modification des données
+- URI accessibles via Drozer scanner

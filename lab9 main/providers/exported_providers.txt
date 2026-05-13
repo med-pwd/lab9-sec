@@ -1,0 +1,4 @@
+NotesProvider
+Authority: jakhar.aseem.diva.provider.notesprovider
+Exported: true
+Read/Write permission: NULL

@@ -1,0 +1,4 @@
+- Activities exportées sans protection
+- Accès direct possible sans authentification
+- Risque de contournement de login
+- Accès à des écrans internes sensibles
